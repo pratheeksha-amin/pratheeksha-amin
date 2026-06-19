@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/u/poojarypratheeksha/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://github.com/pratheeksha-ai">
+  <a href="https://github.com/pratheeksha-amin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
