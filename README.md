@@ -91,7 +91,7 @@
 ## 🌐 Connect with Me
 
 - 💼 LinkedIn: [pratheekshaamin](https://linkedin.com/in/pratheekshaamin)
-- 💻 GitHub: [pratheeksha-ai](https://github.com/pratheeksha-ai)
+- 💻 GitHub: [pratheeksha-ai](https://github.com/pratheeksha-amin)
 - 🧩 LeetCode: [poojarypratheeksha](https://leetcode.com/u/poojarypratheeksha/)
 
 ---
