@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pratheeksha Amin
+# Hi 👋, I'm Pratheeksha Amin.
 
 ### MCA Student | Software Developer | Problem Solver
 
