@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Pratheeksha</h1>
-<h3 align="center">MCA Student | Software Developer</h3>
+# Hi 👋, I'm Pratheeksha Amin
+
+### MCA Student | Software Developer | Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Software+Developer;Always+Learning+New+Things" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;MCA+Student+at+NMAMIT;Software+Developer;Java+%7C+Web+Development+%7C+Cybersecurity;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/pratheekshaamin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pratheekshaamin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/poojarypratheeksha/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://github.com/pratheeksha-amin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -22,50 +23,51 @@
 ## 🌸 About Me
 
 - 🎓 MCA Student at NMAM Institute of Technology
-- 💻 Interested in Web Development & Software Engineering
-- 🌱 Learning React, Java, SQL & Cybersecurity
-- 🎯 Focused on building real-world projects
+- 💻 Passionate about Software Development and Web Technologies
+- 🌱 Currently Learning React, Java, SQL and Cybersecurity
+- 🧠 Solving DSA Problems on LeetCode
+- 🚀 Interested in Full Stack Development and Software Engineering
+- 🎯 Goal: Build impactful real-world applications and secure a Software Developer role
 
 ---
 
 ## 🛠️ Tech Stack
 
-**💻 Languages**
+### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript" />
+</p>
 
-**🌐 Web Development**
+### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-**🗄️ Database**
+### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-**⚙️ Tools**
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pratheeksha-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-ai&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pratheeksha-amin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha-amin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratheeksha-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=pratheeksha-amin&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -73,42 +75,55 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/poojarypratheeksha?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/poojarypratheeksha?theme=dark&font=baloo2&ext=contest" />
 </p>
-
-> 🔗 [View full LeetCode profile](https://leetcode.com/u/poojarypratheeksha/)
 
 ---
 
 ## 📌 Featured Projects
 
-- 💰 **Smart Expense Analyzer**
-- 📚 **Library Management System** (Java + MySQL)
-- 🧠 **MindQuest** (React Project)
+### 💰 Smart Expense Analyzer
+AI-powered expense tracking and spending insights.
+
+### 📚 Library Management System
+Java + MySQL application for managing books, users and transactions.
+
+### 🧠 MindQuest
+Interactive React-based learning platform.
+
+### 💎 Spark and Shine
+Full-stack Artificial Jewelry E-Commerce Website built using PHP, MySQL, HTML, CSS and JavaScript.
 
 ---
 
-## 🌐 Connect with Me
+## 🏆 Achievements
 
-- 💼 LinkedIn: [pratheekshaamin](https://linkedin.com/in/pratheekshaamin)
-- 💻 GitHub: [pratheeksha-amin](https://github.com/pratheeksha-amin)
-- 🧩 LeetCode: [poojarypratheeksha](https://leetcode.com/u/poojarypratheeksha/)
-
----
-
-## ⚡ Extra Features
-
-- ✨ Clean UI focused projects
-- 🚀 Strong problem-solving mindset
-- 💡 Consistent learner
-- 🎯 Goal-oriented developer
+- Solving Data Structures & Algorithms problems regularly
+- Active learner in Java, SQL and Web Development
+- Built multiple academic and personal projects
+- Participated in coding challenges and hackathons
 
 ---
 
-## ✨ Fun Fact
+## 🌐 Connect With Me
 
-💙 I love building simple, beautiful and useful applications!
+<p align="left">
+  <a href="https://www.linkedin.com/in/pratheekshaamin/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/pratheeksha-amin">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
+
+---
+
+## 💡 Fun Fact
+
+💙 I love building simple, beautiful and useful applications that solve real-world problems.
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratheeksha-ai&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pratheeksha-amin&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
