@@ -3,6 +3,41 @@
 
 ### MCA Student | Software Developer | Problem Solver
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MCA+Student+at+NMAMIT;Software+Developer;Java+%7C+Swing+%7C+PHP+%7C+MySQL;Learning+Cybersecurity+and+React;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratheekshaamin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/poojarypratheeksha/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/pratheeksha-amin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+---
+
+
+## 🌸 About Me
+
+```javascript
+const pratheeksha = {
+  role: "MCA Student | Software Developer",
+  languages: ["Java", "Python", "C", "PHP", "JavaScript"],
+  frontend: ["HTML", "CSS", "JavaScript", "React"],
+  backend: ["PHP", "JDBC"],
+  database: ["MySQL"],
+  javaTech: ["Core Java", "Swing", "Collections", "OOP"],
+  interests: ["Cybersecurity", "Web Development", "Software Engineering"],
+  solving: "DSA Problems on LeetCode",
+  learning: ["React", "Cybersecurity", "System Design"],
+  goal: "Software Developer 🚀",
+  status: "✅ Open to Opportunities"
+};
+````
 
 💻 Passionate about Software Development and Problem Solving.
 
